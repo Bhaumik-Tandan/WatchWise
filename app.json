@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e6ff7f8b-4e1a-40bc-8bca-4997ebb3da49"
+      }
+    },
+    "owner": "bhaumik.tandan"
   }
 }
